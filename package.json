@@ -1,0 +1,15 @@
+{
+  "name": "simple_nodejs_app",
+  "version": "1.0.0",
+  "description": "a simple node app with server as heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Jatin Verma",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
